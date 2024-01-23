@@ -32,6 +32,10 @@ You are welcome to modify this to your liking, I can't stop you
  Chris Animation Skip
  
  NTWM Combat
+
+ Toast Early
+
+ that one EPAE jump
  
  Dennis 1 2 frame
  
