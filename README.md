@@ -1,6 +1,8 @@
 # Movie Rehearsal
 Niche practice spots for tssm, known for being jank
 
+You are welcome to modify this to your liking, I can't stop you
+
 # Included Practice tools
 
  Depression Cartwheel Extra (As Spongebob)
